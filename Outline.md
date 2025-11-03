@@ -1,6 +1,5 @@
 Pages:
-    Job:
-
+    Job
         Data:
             . Title
             . Location
@@ -15,8 +14,8 @@ Pages:
         Features:
             . Apply job
             . Post job    
-        
-    Blog:
+--------------------------------------------       
+    Blog
         Data:
             . Title of Post
             . Description of post
@@ -29,9 +28,10 @@ Pages:
             . Search post
             . Comment on post
             . Recent posts    
-            
-    Contact:
-
-    Home:
-    
-    Login:
+--------------------------------------------       
+    Contact
+--------------------------------------------     
+    Home
+--------------------------------------------       
+    Accounts
+--------------------------------------------       
