@@ -19,3 +19,5 @@
     - Many to Many => Admin . Group
     - One to One => User . Profile
 ---------------------------------
+- static files : [frontend] images(part of the website صورة ثابتة بتتكرر زى البانر), css, javascript.
+- media files : [upload] images.
