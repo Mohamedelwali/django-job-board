@@ -1,0 +1,21 @@
+- Template => Frontend
+---------------------------------
+- Virtualenv:
+    - Create
+    - Activate
+    - pip install libraries
+    - Deactivate if you need 
+---------------------------------
+- Upload project on Github
+---------------------------------
+- Hints:
+    - urls : path
+    - views : logic
+    - models : database
+    - templates : frontend
+---------------------------------
+- Relationships in Django:
+    - One to Many(Foreignkey) => User . Post
+    - Many to Many => Admin . Group
+    - One to One => User . Profile
+---------------------------------
